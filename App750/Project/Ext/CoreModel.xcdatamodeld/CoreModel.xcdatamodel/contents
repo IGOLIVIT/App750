@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23B74" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="EventModel" representedClassName="EventModel" syncable="YES" codeGenerationType="class">
+        <attribute name="evDate" optional="YES" attributeType="String"/>
+        <attribute name="evLoc" optional="YES" attributeType="String"/>
+        <attribute name="evPhoto" optional="YES" attributeType="String"/>
+        <attribute name="evTeam" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="PartModel" representedClassName="PartModel" syncable="YES" codeGenerationType="class">
+        <attribute name="parAge" optional="YES" attributeType="String"/>
+        <attribute name="parDate" optional="YES" attributeType="String"/>
+        <attribute name="parName" optional="YES" attributeType="String"/>
+        <attribute name="parNumber" optional="YES" attributeType="String"/>
+        <attribute name="parPhoto" optional="YES" attributeType="String"/>
+        <attribute name="parTeam" optional="YES" attributeType="String"/>
+    </entity>
+</model>
